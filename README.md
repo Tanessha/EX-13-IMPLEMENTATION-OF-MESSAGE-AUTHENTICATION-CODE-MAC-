@@ -66,7 +66,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="917" height="471" alt="image" src="https://github.com/user-attachments/assets/f296cc70-08dc-4337-a02c-dc5582a47196" />
 
 ## RESULT:
 
